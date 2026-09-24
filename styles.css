@@ -103,7 +103,7 @@ footer {
     padding: 1rem;
 }
 /* ===== MEDIA QUERIES (MEDIUM  ===== */
-@MEDIA SCREEN AND (MIN-WIDTH;817X){
+@MEDIA SCREEN and (MIN-WIDTH:817px){
     nav ul {
         display: flex;
         justify-content: center;
